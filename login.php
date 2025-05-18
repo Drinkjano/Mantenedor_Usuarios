@@ -50,7 +50,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Iniciar Sesión - En Línea</title>
+    <title>Iniciar Sesión Mantencion Usuarios</title>
     <style>
         body { font-family: Arial, sans-serif; max-width: 400px; margin: 0 auto; padding: 20px; }
         .error { color: red; margin-top: 10px; }
