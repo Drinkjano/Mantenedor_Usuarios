@@ -1,5 +1,5 @@
 # Changelog  
-## [1.0.0] - 2024-05-20  
+## [1.0.0] - 19-05-2025
 ### Added  
 - Interfaz gráfica estable.  
 ### Fixed  
